@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name's Anthony and I'm a self-taught web developer based in the north of France.  
+I'm currently looking for a job and I don't mind relocating.  
+Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/anthony-lienard/).
+
 <!--
 **anlnrd/anlnrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
